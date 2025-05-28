@@ -63,7 +63,7 @@ jupyter notebook Alzheimer's_Detection.ipynb
 - **MRI Dataset:** Preprocessed 2D brain scans
 - **Tabular Data:** Age, MMSE, gender, etc.
 
-> You can use open datasets like [OASIS-3](https://www.oasis-brains.org/) or simulate with dummy data for testing.
+> You can use open datasets like [OASIS-3]([https://www.oasis-brains.org/](https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy?resource=download)) or simulate with dummy data for testing.
 
 ---
 
