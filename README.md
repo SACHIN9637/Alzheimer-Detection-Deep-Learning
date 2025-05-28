@@ -18,6 +18,9 @@ This project implements a multimodal deep learning model to classify Alzheimer's
 - `Alzheimer's_Detection.ipynb` – Main notebook implementing the model
 - `README.md` – Project overview and usage
 - `requirements.txt` – Python dependencies (to be added if needed)
+- `Presentation.pptx` – Project presentation slides
+- `Poster.png` – Visual summary of the project for display/poster sessions
+
 
 ---
 
